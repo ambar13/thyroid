@@ -9,19 +9,19 @@ Thyroid surgio de una necesidad muy grande, El Hipotiroidismo es una enfermedad 
 Segun la investigacion realizada descubrimos que hay una gran cantidad de personas que sufren de está enfermedad y que quizas no cuentan con la informacion detallada. Es por esto que surge la idea de Thyroid para lograr atacar ese problema. 
 
 ### Preguntas Propuestas
-1.- ¿Sufres de Hipotiroidismo?
-2.- Si respondiste que no, ¿Conoces a alguien que padezca de esta enfermedad?
-3.- A los cuantos años te/le detectaron el hipotiroidismo
-4.- ¿Cuales fueron los síntomas que presentaste?
-5.- ¿Que tipos de exámenes te hicieron para detectar la enfermedad? (Cuéntanos cuales si los recuerdas)
-6.- ¿Que tipo de hipotiroidismo te detectaron? (Primario - Secundario - Terciario) Si no sabes el termino cuéntanos como se te presento. 
-7.- ¿ Que tratamiento debes seguir?
-8.- ¿El padecer de esta enfermedad afecto tu rutina diaria?
-9.- ¿Te cuesta seguir el tratamiento? Cuéntanos ¿por que? 
-10.- ¿Te gustaría estar en constante comunicación con un especialista para resolver alguna duda que pueda surgir ? 
-11.- ¿El sufrir de Hipotiroidismo afecto en algo mas a tu salud o eres propenso a sufrir alguna otra enfermedad?
-12.- ¿que síntomas o que molestias tuviste al dejar de tomar la medicina?
-13.- Si existiese una aplicación que te ayude, que te gustaría que tenga
+- 1.- ¿Sufres de Hipotiroidismo?
+- 2.- Si respondiste que no, ¿Conoces a alguien que padezca de esta enfermedad?
+- 3.- A los cuantos años te/le detectaron el hipotiroidismo
+- 4.- ¿Cuales fueron los síntomas que presentaste?
+- 5.- ¿Que tipos de exámenes te hicieron para detectar la enfermedad? (Cuéntanos cuales si los recuerdas)
+- 6.- ¿Que tipo de hipotiroidismo te detectaron? (Primario - Secundario - Terciario) Si no sabes el termino cuéntanos como se te presento. 
+- 7.- ¿ Que tratamiento debes seguir?
+- 8.- ¿El padecer de esta enfermedad afecto tu rutina diaria?
+- 9.- ¿Te cuesta seguir el tratamiento? Cuéntanos ¿por que? 
+- 10.- ¿Te gustaría estar en constante comunicación con un especialista para resolver alguna duda que pueda surgir ? 
+- 11.- ¿El sufrir de Hipotiroidismo afecto en algo mas a tu salud o eres propenso a sufrir alguna otra enfermedad?
+- 12.- ¿que síntomas o que molestias tuviste al dejar de tomar la medicina?
+- 13.- Si existiese una aplicación que te ayude, que te gustaría que tenga
 
 ### User Persona
 - Nombre: Maya
