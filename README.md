@@ -1,5 +1,5 @@
 # Thyroid
-La aplicacion que cuidara de ti.
+La aplicacion que cuidará de ti.
 
 ### Reto
 Diseñar un producto digital que resuelva una necesidad. Si tienes una idea de un producto que te gustaría probar, lo podrás hacer. Podrás identificar y conocer a tus usuarios y hacer las pruebas necesarias para poder validar tu idea.
@@ -24,8 +24,6 @@ Segun la investigacion realizada descubrimos que hay una gran cantidad de person
 - 13.- Si existiese una aplicación que te ayude, que te gustaría que tenga
 
 ### User Persona
-- Nombre: Maya
-- Edad: 35 años
-- Frase: " Constantemente suelo olvidar el horario de mis medicinas"
-- Biografia: Soy Maya, tengo 35 años fui detectada de hipotiroidismo a los 28 años, mi rutina cambio y afecto mi vida, empece a subir de peso. aveces me cuesta llevar el control de mi enfermedad.
+![mara]("assets/mara.png")
 
+###
