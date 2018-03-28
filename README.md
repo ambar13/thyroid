@@ -1,5 +1,12 @@
 # Thyroid
-La aplicacion que cuidará de ti.
+¿Sufres de Hipotiroidismo?¿Olvidas tomar tu medicina a la hora? Thyroid nació con la finalidad de ayudar a todas las personas que sufren de está enfermedad, nosotros pensamos en ti porque tu salud es muy importante.
+![Thyroid](assets/marvel.png) 
+
+### Desarrollado para
+[Laboratoria](http://www.laboratoria.la/)
+
+- Track: Common Core.
+- Unidad: Primer proyecto Ux.
 
 ### Reto
 Diseñar un producto digital que resuelva una necesidad. Si tienes una idea de un producto que te gustaría probar, lo podrás hacer. Podrás identificar y conocer a tus usuarios y hacer las pruebas necesarias para poder validar tu idea.
