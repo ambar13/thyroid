@@ -1,6 +1,7 @@
 # Thyroid
 ¿Sufres de Hipotiroidismo?¿Olvidas tomar tu medicina a la hora? Thyroid nació con la finalidad de ayudar a todas las personas que sufren de está enfermedad, nosotros pensamos en ti porque tu salud es muy importante.
-![Thyroid](assets/marvel.png) 
+![marvel](https://user-images.githubusercontent.com/32307145/38425321-3174b35a-3979-11e8-8758-367030ae283c.png)
+
 
 ### Desarrollado para
 [Laboratoria](http://www.laboratoria.la/)
