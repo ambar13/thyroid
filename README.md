@@ -7,7 +7,6 @@
 [Laboratoria](http://www.laboratoria.la/)
 
 - Track: Common Core.
-- Unidad: Primer proyecto Ux.
 
 ### Reto
 Diseñar un producto digital que resuelva una necesidad. Si tienes una idea de un producto que te gustaría probar, lo podrás hacer. Podrás identificar y conocer a tus usuarios y hacer las pruebas necesarias para poder validar tu idea.
